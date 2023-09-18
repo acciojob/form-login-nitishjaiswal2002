@@ -6,4 +6,4 @@ function getFormvalue() {
 
 	alert("First name: " + firstname + "\nLast name: " + lastname);
 }
-//in html there is prewrritten code yes sir ok sir ,no sir ok sir
+//
